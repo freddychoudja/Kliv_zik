@@ -1,0 +1,6 @@
+{
+  "name": "Kliv Music",
+  "description": "A premium, dark-mode music streaming experience with a focus on high-fidelity visual and audio immersion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
